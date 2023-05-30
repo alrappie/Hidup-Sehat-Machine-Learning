@@ -1,0 +1,79 @@
+item {
+	id: 1
+	name: 'Ayam'
+}
+
+item {
+	id: 2
+	name: 'Tahu Goreng'
+}
+
+item {
+	id: 3
+	name: 'Tomat'
+}
+
+item {
+	id: 4
+	name: 'Donat Dilapisi Gula'
+}
+
+item {
+	id: 5
+	name: 'Donat Dilapisi Coklat'
+}
+
+item {
+	id:6
+	name: 'Strawberry Frosted Donut (Dunkin Donuts)'
+}
+
+item {
+	id: 7
+	name: 'Chocolate Frosted Donut (Dunkin Donuts)'
+}
+
+item {
+	id: 8
+	name: 'Mentimun'
+}
+
+item {
+	id: 9
+	name: 'Telur Dadar'
+}
+
+item {
+	id: 10
+	name: 'Nasi Putih'
+}
+
+item {
+	id: 11
+	name: 'Tempe Goreng'
+}
+
+item {
+	id: 12
+	name: 'Telur Asin'
+}
+
+item {
+	id: 13
+	name: 'Telur Balado'
+}
+
+item {
+	id: 14
+	name: 'Telur Ceplok'
+}
+
+item {
+	id: 15
+	name: 'Mie'
+}
+
+item {
+	id: 16
+	name: 'Roti'
+}
