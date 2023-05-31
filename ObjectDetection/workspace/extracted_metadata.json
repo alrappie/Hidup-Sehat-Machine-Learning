@@ -1,0 +1,115 @@
+{
+  "name": "HidupSehat ObjectDetection",
+  "description": "Identify 16 classes of foods",
+  "subgraph_metadata": [
+    {
+      "input_tensor_metadata": [
+        {
+          "name": "image",
+          "content": {
+            "content_properties_type": "ImageProperties",
+            "content_properties": {
+              "color_space": "RGB"
+            }
+          },
+          "process_units": [
+            {
+              "options_type": "NormalizationOptions",
+              "options": {
+                "mean": [
+                  127.5
+                ],
+                "std": [
+                  127.5
+                ]
+              }
+            }
+          ],
+          "stats": {
+            "max": [
+              255.0
+            ],
+            "min": [
+              0.0
+            ]
+          }
+        }
+      ],
+      "output_tensor_metadata": [
+        {
+          "name": "location",
+          "description": "The locations of the detected boxes.",
+          "content": {
+            "content_properties_type": "BoundingBoxProperties",
+            "content_properties": {
+              "index": [
+                1,
+                0,
+                3,
+                2
+              ],
+              "type": "BOUNDARIES"
+            },
+            "range": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        },
+        {
+          "name": "category",
+          "description": "The categories of the detected boxes.",
+          "content": {
+            "content_properties_type": "FeatureProperties",
+            "content_properties": {
+            },
+            "range": {
+              "min": 2,
+              "max": 2
+            }
+          },
+          "associated_files": [
+            {
+              "name": "labels.txt",
+              "description": "Label of objects that this model can recognize.",
+              "type": "TENSOR_VALUE_LABELS"
+            }
+          ]
+        },
+        {
+          "name": "score",
+          "description": "The scores of the detected boxes.",
+          "content": {
+            "content_properties_type": "FeatureProperties",
+            "content_properties": {
+            },
+            "range": {
+              "min": 2,
+              "max": 2
+            }
+          }
+        },
+        {
+          "name": "number of detections",
+          "description": "The number of the detected boxes.",
+          "content": {
+            "content_properties_type": "FeatureProperties",
+            "content_properties": {
+            }
+          }
+        }
+      ],
+      "output_tensor_groups": [
+        {
+          "name": "detection result",
+          "tensor_names": [
+            "location",
+            "category",
+            "score"
+          ]
+        }
+      ]
+    }
+  ],
+  "min_parser_version": "1.2.0"
+}
