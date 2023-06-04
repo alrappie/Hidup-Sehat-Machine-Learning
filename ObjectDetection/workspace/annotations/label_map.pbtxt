@@ -77,3 +77,103 @@ item {
 	id: 16
 	name: 'Roti'
 }
+
+item {
+	id: 17
+	name: 'Es Krim'
+}
+
+item {
+	id: 18
+	name: 'Es Loli'
+}
+
+item {
+	id: 19
+	name: 'Roti Bagel'
+}
+
+item {
+	id: 20
+	name: 'Pretzel Cinnamon Sugar'
+}
+
+item {
+	id: 21
+	name: 'Cheeseburger'
+}
+
+item {
+	id: 22
+	name: 'Hotdog'
+}
+
+item {
+	id: 23
+	name: 'Kentang Tumbuk'
+}
+
+item {
+	id: 24
+	name: 'Kubis'
+}
+
+item {
+	id: 25
+	name: 'Brokoli'
+}
+
+item {
+	id: 26
+	name: 'Kembang Kol'
+}
+
+item {
+	id: 27
+	name: 'Paprika Merah'
+}
+
+item {
+	id: 28
+	name: 'Stroberi'
+}
+
+item {
+	id: 29
+	name: 'Jeruk'
+}
+
+item {
+	id: 30
+	name: 'Lemon'
+}
+
+item {
+	id: 31
+	name: 'Nanas'
+}
+
+item {
+	id: 32
+	name: 'Pisang'
+}
+
+item {
+	id: 33
+	name: 'Nangka'
+}
+
+item {
+	id: 34
+	name: 'Spaghetti Carbonara'
+}
+
+item {
+	id: 35
+	name: 'Pizza dengan Daging dan Sayuran'
+}
+
+item {
+	id: 36
+	name: 'Jagung'
+}
