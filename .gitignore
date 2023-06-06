@@ -1,3 +1,4 @@
 *.record
 /Scraping
 *.v2
+/Recommender/word2vec-pretrained-model

@@ -25,7 +25,7 @@ class Recommendation():
         self.dataframe['cosim'] = 0
         self.dataframe['tags'] = self.dataframe['tags'].apply(lambda x: ' '.join(ast.literal_eval(x)))
         self.dataframe['text'] = self.dataframe['title']+' '+self.dataframe['summary']+' '+self.dataframe['content'] + ' ' + self.dataframe['tags']
-        self.dataframe.drop(['title','summary','content','tags','imgUrl','link','viewers','likes','createdAt','author'],axis=1,inplace=True)
+        # self.dataframe.drop(['title','summary','content','tags','imgUrl','link','viewers','likes','createdAt','author'],axis=1,inplace=True)
         self.dataframe['text'] = self.dataframe['text'].apply(lambda x: self.clean_text(x))
         return self.dataframe
     
@@ -44,5 +44,5 @@ class Recommendation():
         self.cos_sim = cosine_similarity(self.vector,self.vector_user)
         self.dataframe['cosim'] = self.cos_sim
         if np.max(self.dataframe['cosim'])<=0.001:
-            return self.dataframe.sample(self.dataframe.shape[0])['id']
-        return self.dataframe.sort_values('cosim',ascending=False)['id']
+            return self.dataframe.sample(self.dataframe.shape[0]).drop(['text','cosim'],axis=1)
+        return self.dataframe.sort_values('cosim',ascending=False).drop(['text','cosim'],axis=1)

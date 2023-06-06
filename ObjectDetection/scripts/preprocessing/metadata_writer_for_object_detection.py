@@ -75,14 +75,14 @@ _MODEL_INFO = {
     "model.tflite":
         ModelSpecificInfo(
             name="HidupSehat Object Detection",
-            version="v1",
+            version="v2",
             image_width=640,
             image_height=640,
             image_min=0,
             image_max=255,
             mean=[127.5],
             std=[127.5],
-            num_classes=16)
+            num_classes=36)
 }
 
 
@@ -106,7 +106,7 @@ class MetadataPopulatorForObjectDetection(object):
     # Creates model info.
     model_meta = _metadata_fb.ModelMetadataT()
     model_meta.name = self.model_info.name
-    model_meta.description = ("Identify 16 classes of foods.")
+    model_meta.description = ("Identify 36 classes of foods.")
     model_meta.version = self.model_info.version
     model_meta.author = "TensorFlow"
     model_meta.license = ("Apache License. Version 2.0 "
