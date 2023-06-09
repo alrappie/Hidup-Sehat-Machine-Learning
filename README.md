@@ -1,12 +1,9 @@
 # Hidup-Sehat-Machine-Learning
 
-There are 3 models for the machine learning in our apps
+In our apps, there are three machine learning models.
 
-1. Object detection
-   Our object detection using 7400+ images within 36 classes of food, trained with pre-trained model ssd mobilenet v2 fpnlite 640x640 40000 steps 64 batch.
+1. Object recognition Our object detection model was trained with a pre-trained model ssd mobilenet v2 fpnlite 640x640 40000 steps 64 batch on 7400+ images from 36 food classes.
 
-2. Pose Estimation
-   Extract the keypoint using movenet lightning model and calculate the similarity between user and the picture yoga selected with euclidean distance & angle.
+2. Yoga Pose Evaluation Using the movenet lightning model, extract the keypoint and calculate the similarity between the user and the yoga image with euclidean distance and angle.
 
-3. Recommendation
-   Give a content feeds recommendation based on user input, calculate the similarity using cosine similarity with tf-idf method.
+3. Recommendation Based on user input, recommend content feeds and calculate similarity using cosine similarity and the tf-idf method.
