@@ -1,0 +1,168 @@
+[
+    {
+      "id": "string",
+      "cardColor": 4,
+      "type": "Yoga",
+      "category": "Ketenangan",
+      "difficulty": "Pemula",
+      "imgUrl": "string",
+      "caloriesBurned": 100,
+      "movementCount": 3,
+      "movementList": [
+        {
+          "movementName": "Berdiri Membungkuk ke Depan",
+          "movementDesc": "Lipatan depan yang sederhana namun efektif yang mendorong Anda menuju fleksibilitas yang lebih besar di sepanjang tubuh belakang Anda",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qJHhyAnYnBA2rMdphKTLB3N7S-jLEOyi6DpNOzUPG2N6e2jaQvmR3ehMrfC6UakoqOp8AsWUw1Acdm9KTuz5b2KMTG=s1600"
+        }, 
+        {
+          "movementName": "Berdiri Setengah Menekuk Ke Depan",
+          "movementDesc": "Pose setengah membungkuk ke depan memperkuat punggung, memanjangkan tulang belakang, dan meningkatkan fleksibilitas pinggul dan paha belakang Anda. Pose yoga ini juga meregangkan dada, menguatkan kaki, dan merangsang perut",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qkhB1w5ns1PLvY_xx8Peh1YTG-rWMhgwm4Fp5ttBzTmUHIm4ftCV8MJ0hEbz2bHfT_El9aY1gNKmVRNPvXd1_XyHDR=s1600"
+        },
+        {
+          "movementName": "Pose Sudut Berbaring",
+          "movementDesc": "Pose Sudut Berbaring meregangkan selangkangan, paha bagian dalam, dan pinggul serta membantu meredakan gejala stres, kecemasan, dan depresi.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81p7l2v--UJPnvk9ObU0645a48YjEiHuDpcb0GI-pZnhL6l0GD6q8i_ysQPOVLwWhfy5H-d2Vih0fjXVLSG6rIF98zzPLg=s1600"
+        }
+      ]
+    },
+    {
+      "id": "string",
+      "cardColor": 3,
+      "type": "Yoga",
+      "category": "Kecemasan",
+      "difficulty": "Pemula",
+      "imgUrl": "string",
+      "caloriesBurned": 100,
+      "movementCount": 5,
+      "movementList": [
+        {
+          "movementName": "Pose Kucing",
+          "movementDesc": "Mengurangi sakit punggung · Menenangkan pikiran · Memperbaiki postur · Meningkatkan koordinasi",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qbYjqKQ7Feg0JrPa4Tema6Knu_0GJTfk4ewVPaRzt1W4uHNtL_WB-B8ENHjCqQ_Hhhv0b-j4v0WcCdn2sP1aIUKJLIPw=s1600"
+        }, 
+        {
+          "movementName": "Kaki Naik Pose Dinding",
+          "movementDesc": "selain mengurangi stres dan cemas, pose legs up the wall juga memiliki manfaat lainnya yaitu mengurangi nyeri lutut, meredakan leher yang tegang, meringankan kaki yang lemah, meredakan kram kaki, dan mengurangi sakit punggung",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r1LlsBh6ywT0wKQGMqcUGpJt5u-rrjztyX90d5_r-dsRhpZDeomoxG1t8ZzrAnB_NzADIn8vqSZ9G0JIeNC4oSvqFq=s1600"
+        },
+        {
+          "movementName": "Salam Ke atas",
+          "movementDesc": "Salam Ke atas meregangkan sisi tubuh, tulang belakang, bahu, ketiak, dan perut. Ini mengencangkan paha, meningkatkan pencernaan, dan membantu menghilangkan kecemasan dan kelelahan. Ini juga membantu menciptakan ruang di dada dan paru-paru, yang merupakan terapi untuk asma dan kemacetan.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81o0HetmkeOCPp_vfEoIA00xoFT-3HEK0VCE5TXe3KqwWXvwarColY1DT6XZJVVdFBZimZnz5T24mtyeBw8fW9V-DMao=s1600"
+        },
+        {
+          "movementName": "Berdiri Membungkuk ke Depan",
+          "movementDesc": "Lipatan depan yang sederhana namun efektif yang mendorong Anda menuju fleksibilitas yang lebih besar di sepanjang tubuh belakang Anda",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qJHhyAnYnBA2rMdphKTLB3N7S-jLEOyi6DpNOzUPG2N6e2jaQvmR3ehMrfC6UakoqOp8AsWUw1Acdm9KTuz5b2KMTG=s1600"
+        },
+        {
+          "movementName": "Pose Jembatan",
+          "movementDesc": "Pose ini menenangkan otak, mengurangi stres, serta bermanfaat untuk mengelola depresi ringan. Selain tekanan darah tinggi, bridge pose juga baik untuk kesehatan organ perut, paru-paru, mengatasi nyeri haid, kelelahan, sakit kepala dan kecemasan.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOkHtnMbP_6jnZI-PubO_scEH99HoFMmD6silXksc5hfasm9gwU3X972tPXMIY390R6PGlxzUgnIDVDSMic4T5JltBFQ=s1600"
+        }
+      ]
+    },
+      {
+      "id": "string",
+      "cardColor": 2,
+      "type": "Yoga",
+      "category": "Fitness",
+      "difficulty": "Menengah",
+      "imgUrl": "string",
+      "caloriesBurned": 120,
+      "movementCount": 5,
+      "movementList": [
+        {
+          "movementName": "Pose Perahu",
+          "movementDesc": "Gerakan yoga asana ini efektif menghilangkan lemak di area perut. Selain itu, boat pose berfungsi untuk meningkatkan kekuatan tulang belakang, menjaga kinerja usus dan ginjal, dan melancarkan pencernaan. Caranya, duduk di lantai dengan posisi kaki lurus ke depan.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oTkCdcrnEw49cPxxcSof9F_nj8Nu8q_vcBkdpyEokrwD8YsKmiFLDf5vEEveOkMfo2CY727HEa3FHqt1fB-UKLYZrUnQ=s1600"
+        }, 
+        {
+          "movementName": "Pose Papan Lumba-lumba",
+          "movementDesc": "Merupakan modifikasi dari pose plank, dolphin plank pose dapat memperkuat dan mengencangkan bagian inti tubuh, paha, dan lengan. Menenangkan otak dan membantu menghilangkan stres dan depresi ringan, Peregangan bahu, paha belakang, betis, dan lengkungan, Memperkuat lengan dan kaki, dan inti, Membantu mencegah osteoporosis",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oG_pp6eaSyZPRaDpWotV7_vAAsXaLsBMGpnXPtdMdV1yH4DZjzsj8w2XnTdvFvXc-FPjXsTig6ky0IMLjQCjWYYQmEaA=s1600"
+        },
+        {
+          "movementName": "Plank Pose",
+          "movementDesc": "Plank adalah latihan inti yang sederhana dan efektif yang membantu membangun kekuatan dan stabilitas yang berfokus pada seluruh tubuh. Latihan plank juga juga dapat membantu meningkatkan fleksibilitas.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oWjzjsspyZI_GJzcgK72RSqsH1sUHc_boA73JN4jDboCJH0lXNF7ybXFLplksjmdELWTrSiQ8QsaWXwVywxNH_E3RwIA=s1600"
+        },
+        {
+          "movementName": "Side Plank Pose",
+          "movementDesc": "Fungsi side plank sebagai aspek untuk memperkuat massa otot dalam bagian perut tersebut secara tidak langsung akan menjadi bagian penting yang sulit dicapai dengan cara lain.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pym0zmuloRkSikq09J9XVlW02vopBBYkU8BQ76r8_R2AlW7A8n9OFkWka7NmxLpxhIhP8v-9ChWy31IrsFzTHt5e1oHQ=s1600"
+        },
+        {
+          "movementName": "Warrior 3 Pose",
+          "movementDesc": "Posisi ini berfungsi untuk meregangkan bahu, leher, dada, perut dan selangkangan. Gerakan ini juga membuka paru-paru dan pikiran Anda hingga kapasitas maksimal. Warrior Pose juga memperkuat beberapa bagian tubuh Anda juga, sehingga bahu, lengan, punggung, dan kaki Anda akan menjadi lebih berotot dan semakin kencang saat Anda berlatih.Warrior pose juga memiliki manfaat terapi dan meditasi untuk membantu Anda bersantai dan meningkatkan fokus dan kesadaran sepanjang hari",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81q0crI4nNm4TmtfbLNuRNnLr6qxNTzry0toS1TIJz_xdhf0mmmbcpI42EYAlXBPEpedk1XNAUcM2YodKcLxvdEC1_yDCQ=s1600"
+        }
+      ]
+    },
+    {
+      "id": "string",
+      "cardColor": 1,
+      "type": "Yoga",
+      "category": "Pemula",
+      "difficulty": "Pemula",
+      "imgUrl": "string",
+      "caloriesBurned": 100,
+      "movementCount": 4,
+      "movementList": [
+        {
+          "movementName": "Child Pose",
+          "movementDesc": "Manfaat Meregangkan tulang belakang, Melepaskan tekanan dari punggung bawah, Memperkuat lutut, Meningkatkan peredaran darah, Menyehatkan pencernaan, Melepaskan kepenatan dan meningkatkan energi.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oBSbR9alZCc2kxanyJojf-Ua6mp4xhIuX-heIRe2Mbh9YULbrUQyiBPVkbaE18nVKDPuBfDkktpFwULlnxdZj9C0s_=s1600"
+        }, 
+        {
+          "movementName": "Downward Facing Dog Pose",
+          "movementDesc": "Pose yoga yang satu ini bisa membantu untuk menguatkan otot perut dan metabolisme juga akan ikut terjaga ketika melakukan gerakan ini. Sehingga membantu membakar lemak di sekitar bagian tersebut.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qhIfqavfdswov2htwh42x2azE0SaltMsq0iQMcAse6W1L2a70qCpPpA1Ph_R-tnqg4BE6Qm0LLHMaJQyvGHXUxbB_Sog=s1600"
+        },
+        {
+          "movementName": "Mountain Pose",
+          "movementDesc": "Pose ini menarik garik lurus mulai dari kepala hingga tumit ,berdiri dengan kaki rapat atau selebar bahu. Meskipun terlihat mudah namun manfaat dari pose ini sendiri adalah menjaga keseimbangan.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rqR94PeuSkxTslisVhRBuIqdzVOVBfrUS_b36ff1g8L_-n7-F7mmsuHgfTsy2GFgxU1OMBU3YgzDB13hz_JJ7gFtJl=s1600"
+        },
+        {
+          "movementName": "Tree Pose",
+          "movementDesc": "Tree pose bermanfaat untuk meregangkan otot paha dan bahu, serta meningkatkan keseimbangan tubuh. Cara melakukan gerakan tree pose, yaitu: Berdiri dengan kedua kaki rapat. Kemudian tekuk salah satu kaki, dan tarik ke pangkal paha.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rTXd-KLU-_2Or6G8UT_aTTgalOttqOksjwfahFLrqTXGDheaa8qElCSYJT0wrQu2UUuMoRPEuARDXrrISx7jgJDCcEIA=s1600"
+        }
+      ]
+    },
+    {
+      "id": "string",
+      "cardColor": 3,
+      "type": "Yoga",
+      "category": "Tidur Nyenyak",
+      "difficulty": "Pemula",
+      "imgUrl": "string",
+      "caloriesBurned": 100,
+      "movementCount": 4,
+      "movementList": [
+        {
+          "movementName": "Diaphragmatic breathing and backward-count meditation",
+          "movementDesc": "Gerakan ini juga diawali dengan posisi berbaring dengan meletakkan satu bantal di atas lutut dan satu lainnya di bawah kepala. Tutup mata dan ambil napas panjang secara perlahan melalui hidung. Anda harus bisa merasakan seluruh dinding dada mengembang hingga bagian diafragma atau tulang rusuk terbawah. Kemudian buang napas secara perlahan dengan hitungan mundur antara 20 sampai satu dan rasakan dada kembali dalam posisi awal. Setelah menghembuskan napas, coba rasakan bila masih ada udara di rongga dada yang masih bisa dikeluarkan. Berhenti sejenenak dan rilekskan pikiran kemudian ulangi lagi dengan tarikan napas yang lebih dalam dan panjang sekitar 30-40 kali napas.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81p1geABf5HTIOLGJQqnqg6D6zaMJTfoLuWiOrblXNGsNJQ7Q5sDDbroBs9ikLRWWpJK2EBUWt_OQdola8F3fiA268wi4w=s2560"
+        }, 
+        {
+          "movementName": "Functional-squat",
+          "movementDesc": "Gerakan functional squat dimulai dengan posisi berdiri tegak dengan jarak kaki selebar pinggang dan rentangkan tangan sejajar dengan bahu. Kemudian mulai berjongkok secara perlahan dan tumpukan berat badan pada tumit.Bila Anda kesulitan untuk berjongkok tanpa mengangkat tumit, Anda bisa berpegangan pada tembok atau pagar agar posisi lebih stabil. Saat berjongkok, ambil napas sebanyak 3 kali dan fokuskan relaksasi pada bagian punggung setiap menghembuskan napas. Bila posisi jongkok masih kurang nyaman, Anda bisa memperlebar jarak antar kaki untuk mengurangi rasa nyeri.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pb7iGbQmIhHiTap-1-cYrYwlh0zqhlHZ7Eb4alrhYSW74EMM1NVgu-84rlkyHQu5eJJB_Yo19xaBWyeaKMnxU9k7M6pw=s2560"
+        },
+        {
+          "movementName": "Supine bent-knee twist",
+          "movementDesc": "Pada gerakan ini, Anda mulai dengan posisi berbaring dengan kaki terentang dan posisi lengan di samping tubuh. Anda bisa meletakkan bantal di bawah kepala bila perlu. Kemudian angkat dan pelut lutut kiri ke arah dada dan tarik napas. Lalu, hembuskan napas perlahan sambil menarik lutut kiri ke arah kanan tubuh secara perlahan. Ambil dua napas dalam dan panjang dan ulangi untuk posisi yang lain",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81os-7eIMYIGEVJX2Pd4ihNzXFCA4xh6YMAFD1v8ejzXFPgftkuUX-03xph5YHGnuQjT1jCTwfiFN53SXfG-Bf2Ysx5z=s2560"
+        },
+        {
+          "movementName": "Warrior with one side bend",
+          "movementDesc": "Gerakan ini diawali dengan posisi berdiri, kemudian tarik kaki kanan ke belakang dan bertumpu pada tumit dengan jari kaki mengarah keluar. Lalu tekuk lutut kiri hingga posisinya tegak lurus dengan tumit kiri sedangkan kaki kanan tetap dalam keadaan lurus. Angkat tangan kanan hingga ke atas kepala. Regangkan tubuh bagian kanan dan tarik napas. Setelah itu pertahankan posisi tersebut dan hembuskan napas, tarik napas lagi dan posisi tangan kanan kembali ke semula. Ulangi gerakan yang sama untuk kaki yang lain.",
+          "imgUrl": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pxkK4_8gGazHCZg8EnDan8yAMrIqBwVrL3XVcpHvgKBptjZJIkUq24P9dJ-jU1Fy55e9jFiNAODEh9mqD6NFcFnreP_Q=s2560"
+        }
+      ]
+    }
+]
+  
