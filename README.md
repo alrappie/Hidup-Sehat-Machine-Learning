@@ -8,6 +8,8 @@ In our apps, there are three machine learning models.
 
 3. Recommendation Based on user input, recommend content feeds and calculate similarity using cosine similarity and the tf-idf method.
 
+4. Scraping nutriet foods from fatsecret and feeds content from halodoc using BeautifulSoup
+
 # Library, Pre-Trained Model, & Method Used
 * [TensorFlow](https://www.tensorflow.org/?hl=id)
 * [TensorFlow SSD MobileNet v2 fpnlite 640x640](https://github.com/tensorflow/models/tree/master/research/object_detection)
