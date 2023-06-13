@@ -3,7 +3,7 @@
 * The latest TFlite model with metadata is in workspace > exported-models > 03-my_model_tflite > model_metadata_v2.tflite file
 * The output sample of the model is in workspace > images_outputs_sample.ipynb file
 * Label names is in workspace > annotations > labels.txt file
-
+* Our dataset in TFrecord are in google drive due to limited storage in github, can be accessed here [Gdrive](https://drive.google.com/drive/folders/1HRpsDTKegL_IRKQDTLR39QT8o53vpziV?usp=sharing)
 ## How to run the model in Notebook
 Here's a step-by-step command for run the model.
 
