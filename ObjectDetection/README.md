@@ -4,7 +4,7 @@
 * The output sample of the model is in workspace > images_outputs_sample.ipynb file
 * Label names is in workspace > annotations > labels.txt file
 
-## How to run the model
+## How to run the model in Notebook
 Here's a step-by-step command for run the model.
 
 1. clone the github
