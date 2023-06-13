@@ -1,6 +1,6 @@
 # Hidup-Sehat-Machine-Learning
 
-In our apps, there are three 2 deep learning models and 1 machine learning model, for each model will be explain in each folder
+In our apps, there are 2 deep learning models and 1 machine learning model, for each model will be explain in each folder
 
 1. Object recognition Our object detection model was trained with a pre-trained model ssd mobilenet v2 fpnlite 640x640 40000 steps 64 batch on 7400+ images from 36 food classes.
 
