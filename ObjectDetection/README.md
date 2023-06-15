@@ -10,7 +10,7 @@ We Used Linux Terminal (from SSH GPU rent using [vast.ai](https://vast.ai/)) for
 * For the foods dataset can be accessed [here](https://drive.google.com/file/d/1j82Wf6pb5tuNA75JSYEqnln0s2NagPx5/view?usp=sharing).
 
 ## How to run the model in Notebook
-Here's a step-by-step for running the model in notebook.
+Here's a step-by-step for running the model in a notebook.
 
 1. clone the github
 2. Copy the path of the latest saved_model
