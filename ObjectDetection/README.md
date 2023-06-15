@@ -1,5 +1,5 @@
 # Object Detection
-We Used Linux Terminal (from SSH GPU rent) for train the model
+We Used Linux Terminal (from SSH GPU rent using [vast.ai](https://vast.ai/)) for train the model
 
 * The latest model is in workspace > models > 03-my_model > saved_model folder or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/tree/main/ObjectDetection/workspace/exported-models/03-my_model).
 * The latest TFlite model with metadata is in workspace > exported-models > 03-my_model_tflite > model_metadata_v2.tflite file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/exported-models/03-my_model_tflite/model_metadata_v2.tflite)
