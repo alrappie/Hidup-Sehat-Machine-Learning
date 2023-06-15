@@ -1,15 +1,16 @@
 # Object Detection
 We Used Linux Terminal (from SSH GPU rent) for train the model
 
-* The latest model is in workspace > models > 03-my_model > saved_model folder
-* The latest TFlite model with metadata is in workspace > exported-models > 03-my_model_tflite > model_metadata_v2.tflite file
+* The latest model is in workspace > models > 03-my_model > saved_model folder or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/tree/main/ObjectDetection/workspace/exported-models/03-my_model)
+* The latest TFlite model with metadata is in workspace > exported-models > 03-my_model_tflite > model_metadata_v2.tflite file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/exported-models/03-my_model_tflite/model_metadata_v2.tflite)
 * The output sample of the model is in workspace > images_outputs_sample.ipynb file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/images_outputs_samples.ipynb)
-* Label names is in workspace > annotations > labels.txt file
+* Label names is in workspace > annotations > labels.txt file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/annotations/labels.txt)
 * Notebook for Created Metadata can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/convert-metadata.ipynb)
 * Due to limited storage space on github, our dataset in TFrecord format is stored on Google Drive and can be accessed [here](https://drive.google.com/drive/folders/1HRpsDTKegL_IRKQDTLR39QT8o53vpziV?usp=sharing).
+* For the foods dataset can be accessed [here](https://drive.google.com/file/d/1j82Wf6pb5tuNA75JSYEqnln0s2NagPx5/view?usp=sharing)
 
 ## How to run the model in Notebook
-Here's a step-by-step command for running the model.
+Here's a step-by-step for running the model in notebook.
 
 1. clone the github
 2. Copy the path of the latest saved_model
