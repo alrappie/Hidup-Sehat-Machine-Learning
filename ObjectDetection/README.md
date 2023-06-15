@@ -1,4 +1,6 @@
 # Object Detection
+We Used Linux Terminal (from SSH GPU rent) for train the model because
+
 * The latest model is in workspace > models > 03-my_model > saved_model folder
 * The latest TFlite model with metadata is in workspace > exported-models > 03-my_model_tflite > model_metadata_v2.tflite file
 * The output sample of the model is in workspace > images_outputs_sample.ipynb file
