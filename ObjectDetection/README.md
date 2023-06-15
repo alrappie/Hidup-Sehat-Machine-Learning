@@ -3,12 +3,13 @@ We Used Linux Terminal (from SSH GPU rent) for train the model because
 
 * The latest model is in workspace > models > 03-my_model > saved_model folder
 * The latest TFlite model with metadata is in workspace > exported-models > 03-my_model_tflite > model_metadata_v2.tflite file
-* The output sample of the model is in workspace > images_outputs_sample.ipynb file
+* The output sample of the model is in workspace > images_outputs_sample.ipynb file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/images_outputs_samples.ipynb)
 * Label names is in workspace > annotations > labels.txt file
-* Due to limited storage space on github, our dataset in TFrecord format is stored on Google Drive and can be accessed here. [Gdrive](https://drive.google.com/drive/folders/1HRpsDTKegL_IRKQDTLR39QT8o53vpziV?usp=sharing)
+* Notebook for Created Metadata can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/convert-metadata.ipynb)
+* Due to limited storage space on github, our dataset in TFrecord format is stored on Google Drive and can be accessed [here](https://drive.google.com/drive/folders/1HRpsDTKegL_IRKQDTLR39QT8o53vpziV?usp=sharing).
 
 ## How to run the model in Notebook
-Here's a step-by-step command for run the model.
+Here's a step-by-step command for running the model.
 
 1. clone the github
 2. Copy the path of the latest saved_model
@@ -19,7 +20,7 @@ Here's a step-by-step command for run the model.
     ```
 
 ## How to train the model using terminal command
-Here's a step-by-step command for train the model in the terminal.
+Here's a step-by-step command for training the model in the terminal.
 
 ### train tf record
 ```
