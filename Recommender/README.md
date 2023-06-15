@@ -1,6 +1,7 @@
 # Recommendation
 * The recommendation model is in recommendation.py using tfidf and cosine similarity for text comparison.
 * The dataset is in dataset folder.
+* Main notebook is notebook.ipynb
 
 ## How to run the model
 Here's a step-by-step command for run the model.
