@@ -8,9 +8,14 @@ Here's a step-by-step command for run the model.
 2. Import the library
 ```python
 from recommendation import Recommendation
+```
+3. Run the Model with user input
+```
+from recommendation import Recommendation
 person = Recommendation(DATASET_LOCATION.json,USER_INPUT)
 person.recomendations()
 ```
+
 * Example output if user input "saya ingin menjaga kesehatan mental saya lebih baik lagi"
 
 ![images](sample_recommendation.png)
