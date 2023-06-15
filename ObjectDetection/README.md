@@ -3,7 +3,7 @@ We Used Linux Terminal (from SSH GPU rent using [vast.ai](https://vast.ai/)) for
 
 * The latest model is in workspace > models > 03-my_model > saved_model folder or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/tree/main/ObjectDetection/workspace/exported-models/03-my_model).
 * The latest TFlite model with metadata is in workspace > exported-models > 03-my_model_tflite > model_metadata_v2.tflite file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/exported-models/03-my_model_tflite/model_metadata_v2.tflite)
-* The output sample of the model is in workspace > images_outputs_sample.ipynb file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/images_outputs_samples.ipynb).
+* The output sample of the model (with code) is in workspace > images_outputs_sample.ipynb file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/images_outputs_samples.ipynb).
 * Label names is in workspace > annotations > labels.txt file or can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/annotations/labels.txt).
 * Notebook for Created Metadata can be accessed [here](https://github.com/Hidup-Sehat/Hidup-Sehat-Machine-Learning/blob/main/ObjectDetection/workspace/convert-metadata.ipynb).
 * Due to limited storage space on github, our dataset in TFrecord format is stored on Google Drive and can be accessed [here](https://drive.google.com/drive/folders/1HRpsDTKegL_IRKQDTLR39QT8o53vpziV?usp=sharing) (use the third model).
