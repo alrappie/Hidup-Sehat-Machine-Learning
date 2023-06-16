@@ -4,7 +4,7 @@
 * Main notebook is notebook.ipynb
 
 ## How the model works
-Here's a explanation how the recommendation works
+Here's the explanation how the recommendation works
 1. Import all the needed libraries
 ```python
 import numpy as np
