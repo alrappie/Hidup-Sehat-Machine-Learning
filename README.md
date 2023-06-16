@@ -1,10 +1,10 @@
-# Hidup-Sehat-Machine-Learning
+# HidupSehat Machine Learning Model Development
 
-In our apps, there are 2 deep learning models and 1 machine learning model, for each model will be explain in each folder
+In our app, there are 2 deep learning models and 1 machine learning model, for each model will be explain in each folder
 
-1. Object recognition Our object detection model was trained with a pre-trained model ssd mobilenet v2 fpnlite 640x640 40000 steps 64 batch on 7400+ images from 36 food classes.
+1. Our Object Detection model trained with a pre-trained model SSD MobileNet V2 with FPN-Lite Feature Extractor 640x640, shared box predictor and focal loss, trained on COCO 2017 dataset with trainning images scaled to 640x640. We set 40000 steps 64 batch on 7400+ images from 36 food classes.
 
-2. Yoga Pose Evaluation Using the movenet lightning model, extract the keypoint and calculate the similarity between the user and the yoga image with euclidean distance and 8 angle.
+2. Yoga Pose Evaluation using the MoveNet Lightning model, extract the keypoint and calculate the similarity between the user and the yoga image with euclidean distance and 8 angle.
 
 3. Recommendation Based on user input, recommend content feeds and calculate similarity using cosine similarity and the tf-idf method.
 
