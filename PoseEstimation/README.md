@@ -292,8 +292,9 @@ else:
     # Output is a [1, 1, 17, 3] tensor.
     keypoints_with_scores = outputs['output_0'].numpy()
     return keypoints_with_scores
-    ```
+```
 5. Image example
+```python
 # Load the input image.
 image_path = r'D:\Pemrograman\Python\Project\Hidup-Sehat-Machine-Learning\PoseEstimation\images\stress_relief\Upward-Salute_Andrew-Clark.jpg'
 image = tf.io.read_file(image_path)
@@ -317,3 +318,4 @@ output_overlay = draw_prediction_on_image(
 plt.figure(figsize=(5, 5))
 plt.imshow(output_overlay)
 _ = plt.axis('off')
+```
