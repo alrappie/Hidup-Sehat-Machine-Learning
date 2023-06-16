@@ -11,7 +11,7 @@ Here's a step-by-step command for run the model.
 from recommendation import Recommendation
 ```
 3. Run the Model with user input
-```
+```python
 from recommendation import Recommendation
 person = Recommendation(DATASET_LOCATION.json,USER_INPUT)
 person.recomendations()
