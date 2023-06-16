@@ -1,14 +1,16 @@
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/Hidup-Sehat/.github/main/profile/Horizontal%20Logo-whitebg.png" alt="HidupSehat Logo"/></p>
+
 # HidupSehat Machine Learning Model Development
 
-In our app, there are 2 deep learning models and 1 machine learning model, for each model will be explain in each folder
+In our app, there are 2 deep learning models and 1 machine learning model. Each model will be explained in each folder.
 
-1. Our Object Detection model trained with a pre-trained model SSD MobileNet V2 with FPN-Lite Feature Extractor 640x640, shared box predictor and focal loss, trained on COCO 2017 dataset with trainning images scaled to 640x640. We set 40000 steps 64 batch on 7400+ images from 36 food classes.
+1. Our Object Detection model trained with a pre-trained model [SSD MobileNet V2 with FPN-Lite Feature Extractor 640x640](https://tfhub.dev/tensorflow/ssd_mobilenet_v2/fpnlite_640x640/1), shared box predictor and focal loss, trained on [COCO 2017](https://cocodataset.org/#home) dataset with training images scaled to 640x640. We set 40000 steps 64 batch on 7400+ images from 36 food classes.
 
-2. Yoga Pose Evaluation using the MoveNet Lightning model, extract the keypoint and calculate the similarity between the user and the yoga image with euclidean distance and 8 angle.
+2. Yoga Pose Detection we will use the [MoveNet Lightning](https://tfhub.dev/google/movenet/multipose/lightning/1) model, extract the keypoints and calculate the similarity between the user and the yoga image with [Euclidean distance](https://en.wikipedia.org/wiki/Euclidean_distance) on 8 different angles.
 
-3. Recommendation Based on user input, recommend content feeds and calculate similarity using cosine similarity and the tf-idf method.
+3. Recommendation based on user inputs in Diary feature on our app. From there we can recommend the feeds content, and calculate the words similarity using [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity) and the [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) method.
 
-4. Scraping nutriet foods from fatsecret and feeds content from halodoc using BeautifulSoup
+4. Our Data Scraping on food nutrients sourced from [FatSecret](https://www.fatsecret.co.id/kalori-gizi/) and feeds content are from [HaloDoc](https://www.halodoc.com/artikel) using [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 
 # Library, Pre-Trained Model, & Method Used
 * [TensorFlow](https://www.tensorflow.org/?hl=id)
